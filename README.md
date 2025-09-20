@@ -74,6 +74,5 @@ If an obstacle is detected within the selected threshold:
 ## 🔹 Circuit Diagram & System Architecture
 (Add your diagrams here once uploaded)  
 
-```markdown
-![System Architecture](Image/obstacle_system.png)
-![Circuit Diagram](Image/obstacle_circuit.png)
+![System Architecture](Image/system_design.png)
+![Circuit Diagram](Image/circuit_diagram.png)
