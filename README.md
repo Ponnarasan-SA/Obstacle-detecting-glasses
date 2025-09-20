@@ -75,5 +75,5 @@ If an obstacle is detected within the selected threshold:
 (Add your diagrams here once uploaded)  
 
 ```markdown
-![System Architecture](obstacle_system.png)
-![Circuit Diagram](obstacle_circuit.png)
+![System Architecture](Image/obstacle_system.png)
+![Circuit Diagram](Image/obstacle_circuit.png)
